@@ -1,0 +1,20 @@
+# Core Data Science Libraries
+numpy
+pandas
+scikit-learn
+
+# Machine Learning Libraries
+xgboost
+tensorflow
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Application
+streamlit
+
+# Utilities
+joblib
