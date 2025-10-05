@@ -7,7 +7,7 @@ scikit-learn
 xgboost
 tensorflow
 imbalanced-learn
-
+shap
 # Visualization
 matplotlib
 seaborn
@@ -17,4 +17,5 @@ plotly
 streamlit
 
 # Utilities
+
 joblib
