@@ -12,10 +12,11 @@ shap
 matplotlib
 seaborn
 plotly
-
+PyPDF2
 # Web Application
 streamlit
 
 # Utilities
 
 joblib
+
